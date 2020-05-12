@@ -1,0 +1,45 @@
+{
+  "app_bar": {
+    "title": "AppTitle"
+  },
+  "first_page": {
+    "welcome_to": "Welcome to",
+    "welcome_on_board": "Welcome on board",
+    "text1": "Lorem Ipsum dolor",
+    "text2": "Sim amen"
+  },
+  "form" : {
+    "username" : "Nickname",
+    "email" : "Email",
+    "password" : "Password",
+    "identifier" : "Nickname / Email",
+    "confirm_password" : "Confirm Password"
+  },
+  "button": {
+    "cancel": "Cancel",
+    "change_language": "Change Language",
+    "sign_up": "Sign Up",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "language": {
+    "name": {
+      "en": "English",
+      "es": "Italian"
+    },
+    "selected_message": "Currently selected language is {language}",
+    "selection": {
+      "message": "Please select a language from the list",
+      "title": "Language Selection"
+    }
+  },
+  "errors": {
+    "empty_field": "Field {fieldName} is empty!",
+    "pass_not_same": "Passwords must be the same!"
+  },
+  "request_status": {
+    "success" : "Success!",
+    "unexpected_error": "Unexpected Error",
+    "connectivity_issue": "ERROR! Please, check your connection and try again"
+  }
+}
